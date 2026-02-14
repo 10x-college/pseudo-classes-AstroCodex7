@@ -107,3 +107,5 @@
 ✔️ არ არსებობს დუბლირებული ID-ები
 
 ✔️ README.md ფაილში დამატებულია ნამუშევრის სქრინშოთი
+# CSS Fundamentals Assignment
+![Project Preview](./assets/images/preview.png)
